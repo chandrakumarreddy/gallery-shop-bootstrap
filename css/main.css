@@ -1,0 +1,36 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.container{
+margin-top: 0;
+}
+.img-responsive{
+  box-shadow: 10px 10px 5px #888888;
+  border:1px solid black;
+}
+.img-responsive:hover{
+  transform:scale(1.1,1.1);
+}
+.row{
+  margin-bottom: 5%;
+}
+.navbar-inverse{
+  border-radius: 0;
+  height:auto;
+  margin: 0;
+}
+.top{
+  background: #d6cdcd;
+  text-transform: uppercase;
+  padding:20px;
+  margin-bottom:20px;
+}
+a{
+  padding: 0;
+}
+.navbar-brand{
+  padding: 14px 15px;
+}
+.fa-lg{
+  font-size: 10rem;
+}
